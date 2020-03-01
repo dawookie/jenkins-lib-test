@@ -4,5 +4,5 @@ def call(Map stageParams) {
     "foobly.boobly",
     "rooks"
   ]
-  return list
+  return list.toString()
 }
